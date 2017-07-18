@@ -1,0 +1,16 @@
+.layer {
+  width: 600px;
+  height: 200px;
+  background-color: #095;
+
+  &>div {
+    width: 200px;
+    height: 100px;
+    background: url(../../assets/1.jpg);
+  }
+
+  .flex {
+    display: flex;
+  }
+  // 用@import也一样可以
+}
