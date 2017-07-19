@@ -34,3 +34,8 @@ npm install ejs-loader --save-dev
 npm install file-loader --save-dev  
 npm install url-loader --save-dev  
 npm install img-loader --save-dev
+
+#### 打包
+
+webpack    
+npm run webpack  // package.json 配置启动参数
